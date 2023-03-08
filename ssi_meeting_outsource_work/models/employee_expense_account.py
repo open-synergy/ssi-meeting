@@ -11,3 +11,5 @@ class EmployeeExpenseAccount(models.Model):
         "calendar.event",
         "mixin.outsource_work_object"
     ]
+    _outsource_work_create_page = True
+    
