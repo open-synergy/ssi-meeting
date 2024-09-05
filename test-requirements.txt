@@ -1,2 +1,3 @@
 odoo14-addon-ssi-outsource-work
 odoo14-addon-ssi-quality-control
+odoo14-addon-ssi-work-log-mixin
