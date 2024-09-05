@@ -5,7 +5,10 @@
 from odoo import models
 
 
-class EmployeeExpenseAccount(models.Model):
+class CalendarEvent(models.Model):
     _name = "calendar.event"
-    _inherit = ["calendar.event", "mixin.outsource_work_object"]
+    _inherit = [
+        "calendar.event",
+        "mixin.outsource_work_object",
+    ]
     _outsource_work_create_page = True
