@@ -10,6 +10,7 @@ setuptools.setup(
     install_requires=[
         'odoo14-addon-ssi_meeting_outsource_work',
         'odoo14-addon-ssi_meeting_quality_control',
+        'odoo14-addon-ssi_meeting_work_log',
     ],
     classifiers=[
         'Programming Language :: Python',
