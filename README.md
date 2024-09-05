@@ -18,7 +18,8 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[ssi_meeting_outsource_work](ssi_meeting_outsource_work/) | 14.0.1.0.1 |  | Meeting + Outsource Work Integration
+[ssi_meeting_outsource_work](ssi_meeting_outsource_work/) | 14.0.2.0.0 |  | Meeting + Outsource Work Integration
+[ssi_meeting_quality_control](ssi_meeting_quality_control/) | 14.0.1.0.0 |  | Meeting + Quality Control Integration
 
 [//]: # (end addons)
 
